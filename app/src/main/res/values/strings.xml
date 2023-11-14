@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TemperatureTest</string>
+    <string name="location">Location</string>
+    <string name="temperature">Temperature</string>
+    <string name="temperature_unit">%1s %2s</string>
+    <string name="button_main_screen">Next Random Location</string>
+</resources>
